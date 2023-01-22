@@ -10,7 +10,7 @@ export default function Info(){
             <h2 className='card-name'>Oluwademilade Ala</h2>
             <h5 className='job'>Frontend Developer</h5>
             <h5 className='card-website'>oluwademiladeala.website</h5>
-            <a className='email-button' href='demiladeala.gmail.com'>
+            <a className='email-button' href='mailto:demiladeala.gmail.com'>
                 <img src={emailImage} alt='email'></img>Email</a>
             </div>
         </div>
